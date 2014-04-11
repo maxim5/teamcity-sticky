@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Test-Api">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/work/dist/TeamCity-29377/devPackage/tests/tests-support.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
